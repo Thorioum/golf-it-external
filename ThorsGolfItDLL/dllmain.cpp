@@ -45,7 +45,7 @@ DWORD WINAPI MainThread(HMODULE hmodule) {
 		if (flying) {
 			//set all velocity near 0
 			//if we set all velocity to zero it will detect the ball has stoped rolling and teleport end the stroke
-			g.setVelocity(Vec3(0, 5, 0));
+			g.setVelocity(Vec3(0, 25, 0));
 
 
 			//quaternion math wtf (i dont dont know why this works)
