@@ -14,4 +14,8 @@ LCTRL speed up
 LSHIFT slow down
 RSHIFT toggle
 
-If your game freezes, the console may be holding it up. Try going to the injected console and pressing Enter
+If your game freezes, the console may be holding it up. Try going to the injected console and pressing the Enter key
+
+
+https://github.com/user-attachments/assets/b6f1300c-5aa2-46ea-be32-3166c5165717
+
